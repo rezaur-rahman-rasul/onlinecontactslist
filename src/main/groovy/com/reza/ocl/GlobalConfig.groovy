@@ -8,7 +8,7 @@ class GlobalConfig {
     ]
 
 
-//    public static Integer itemsPerPage() {
-//        return 5
-//    }
+    public static Integer itemsPerPage() {
+        return 5
+    }
 }
